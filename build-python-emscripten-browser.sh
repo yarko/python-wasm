@@ -1,5 +1,6 @@
-#!/bin/env bash
-
+#!/usr/bin/env bash
+# for my env:
+source ~/workspace/emscripten/emsdk/emsdk_env.sh
 
 mkdir -p cpython/builddir/emscripten-browser
 
